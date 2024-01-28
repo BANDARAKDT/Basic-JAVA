@@ -1,10 +1,10 @@
 public interface InterfaceTesting {
     void eat();
 
-    void drink();
+    voidink();
 
 
     void run();
 
-    int number=10   //this is a final variable
+    int number=10;  //this is a final variable
 }
