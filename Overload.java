@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class Overload {
     static int plusMethodInt(int x,int y){
         return x+y;
@@ -15,3 +16,8 @@ public class Overload {
     
     }
 }
+=======
+public class Overload {
+    
+}
+>>>>>>> 32cfeed22d157448a42dc96fdc85a301ee6396e8
