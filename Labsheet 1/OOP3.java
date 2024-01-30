@@ -1,4 +1,6 @@
 public class OOP3 {
+
+    // please consider the OOP3 class as the Person class
     String name="Deshani";
     int age=24;
 
