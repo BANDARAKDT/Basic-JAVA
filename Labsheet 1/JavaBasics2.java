@@ -1,6 +1,8 @@
 import java.util.Scanner;
 public class JavaBasics2 {
     public static void main(String args[]){
+
+        System.out.println("Labsheet 01_Java Basics_Q2");
         System.out.println("lets enter two numbers");
 
         Scanner inp=new Scanner(System.in);
