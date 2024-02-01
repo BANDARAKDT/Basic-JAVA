@@ -1,4 +1,3 @@
-package Labsheet_3;
 
 public class SubTitleServer {
     public void displaySubtitle(String subtitle){

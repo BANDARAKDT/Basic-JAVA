@@ -1,4 +1,4 @@
-package Labsheet_3;
+
 
 public class StreamContent {
     public void StreamContent(String content){
