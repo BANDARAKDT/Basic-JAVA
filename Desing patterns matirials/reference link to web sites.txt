@@ -1,0 +1,14 @@
+UML class diagrams:
+
+https://java-programming.mooc.fi/part-11/1-class-diagrams
+
+
+
+
+Facory desing patterns
+
+
+
+https://www.scaler.com/topics/factory-design-pattern-in-java/
+
+https://www.geeksforgeeks.org/factory-method-design-pattern-in-java/
