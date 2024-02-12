@@ -1,4 +1,4 @@
-ThreadingLesson
+package ThreadingLesson;
 
 
 public class MyRun extends Thread{
