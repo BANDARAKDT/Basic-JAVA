@@ -1,3 +1,5 @@
+//eager method
+
 public class Singleton{
     public static void main(String[] args) {
        A a1=A.getInstance();
