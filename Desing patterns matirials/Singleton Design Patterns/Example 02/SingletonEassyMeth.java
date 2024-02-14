@@ -1,4 +1,4 @@
-easy method
+//easy method
 
 public class SingletonEassyMeth {
 
