@@ -5,6 +5,7 @@ public class JavaApplication {
 
         Athlete a1=new Athlete();
 
+       a1.roadRun();
        
        
 
