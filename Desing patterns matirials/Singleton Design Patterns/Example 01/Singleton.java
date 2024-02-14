@@ -1,8 +1,8 @@
-public class SingletonMain{
+public class Singleton{
     public static void main(String[] args) {
-        A a1=new A();
+        A a1=A.getInstance();
    
-        A a2=new A();
+        A a2=A.getInstance();
        
       
     }
