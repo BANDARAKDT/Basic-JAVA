@@ -1,3 +1,5 @@
+package EXAMPLE01; 
+
 public class Sprinters implements Runner{
     
     @Override

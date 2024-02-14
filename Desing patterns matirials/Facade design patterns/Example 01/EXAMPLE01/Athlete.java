@@ -1,12 +1,13 @@
+
+package EXAMPLE01;
+
 public class Athlete {
     Sprinters sprinters;
     RoadRunners roadRunners;
 
     
-    
-    /**
-     * 
-     */
+ 
+  
     public Athlete(){
         sprinters=new Sprinters();
         roadRunners=new RoadRunners();
