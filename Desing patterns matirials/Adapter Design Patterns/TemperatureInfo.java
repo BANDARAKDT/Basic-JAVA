@@ -1,4 +1,4 @@
-public class TemperatureInfo {
+public interface TemperatureInfo {
     public double getTemperatureInF();
 
     public void setTemperatureInF(double getTemperatureInF);

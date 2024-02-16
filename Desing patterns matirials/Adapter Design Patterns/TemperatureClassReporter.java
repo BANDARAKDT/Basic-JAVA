@@ -23,5 +23,11 @@ public class TemperatureClassReporter extends CelciusReporter implements Tempera
            
            private double cToF(double c) { 
             return ((c * 9 / 5) + 32); 
-           } 
+           }
+
+        @Override
+        public double getTemperatureInC() {
+            // TODO Auto-generated method stub
+            throw new UnsupportedOperationException("Unimplemented method 'getTemperatureInC'");
+        } 
 }

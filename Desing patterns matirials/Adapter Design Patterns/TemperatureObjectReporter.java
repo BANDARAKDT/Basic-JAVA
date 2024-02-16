@@ -29,7 +29,7 @@ public class TemperatureObjectReporter implements TemperatureInfo{
         return ((f - 32) * 5 / 9); 
        } 
        
-      4 
+      
        
        private double cToF(double c) { 
         return ((c * 9 / 5) + 32); 
