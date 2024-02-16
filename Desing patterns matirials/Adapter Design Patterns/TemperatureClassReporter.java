@@ -17,5 +17,11 @@ public class TemperatureClassReporter extends CelciusReporter implements Tempera
         this.temperatureInC = fToC(temperatureInF); 
         } 
         
-    
+        private double fToC(double f) { 
+            return ((f - 32) * 5 / 9); 
+           } 
+           
+           private double cToF(double c) { 
+            return ((c * 9 / 5) + 32); 
+           } 
 }
