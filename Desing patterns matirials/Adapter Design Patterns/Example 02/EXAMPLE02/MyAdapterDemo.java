@@ -7,7 +7,9 @@ public static void main(String[] args) {
     System.out.println("My simplename is "+ simple.getName());
 
     SimpleToComplexAdapter adapter=new SimpleToComplexAdapter(simple);
+adapter.setfName(("deshani"));
     System.out.println("My firstname: "+adapter.getfName());
+adapter.setlName("bandara");
     System.out.println("My lastNamme "+adapter.getlName());
 }
 
