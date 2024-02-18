@@ -12,16 +12,24 @@ public class SimpleToComplexAdapter implements ComplexInterface{
   //  get the client(constructer use) and convert it to back-end
 
         public SimpleToComplexAdapter(SimpleName simple){
-            simpleObject=simple;
-            fname=simple.getName().split(" ")[0];
-            lname=simple.getName().split(" ")[1];
-
+            simpleObject = simple;
+            String[] nameParts = simple.getName().split(" ");
+            if (nameParts.length >= 2) {
+                fname = nameParts[0];
+                lname = nameParts[1];
+            } else {
+                fname = "";
+                lname = "";
+            }
+            // accept the client
+            // convert client to back end according to client requirements
+        }
 
             //accept the client
 
             //convert client to back end according to client requirements
    
-        }
+        
         @Override
         public String getfName(){
             return fname;
