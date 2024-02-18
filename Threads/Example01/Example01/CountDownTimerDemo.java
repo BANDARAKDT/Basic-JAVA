@@ -9,3 +9,11 @@ public class CountDownTimerDemo {
     }
     
 }
+
+
+//RunnableA a= new RunnableA();
+//Thread t= new Thread(a);
+//a.strat();
+
+
+//new Thread(new RunnableA(),start();
