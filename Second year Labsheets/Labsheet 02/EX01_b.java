@@ -1,5 +1,12 @@
-public class EX02_b {
+public class EX01_b {
   
+
+
+//    # 
+//   # # 
+//  # # # 
+// # # # #
+
         public static void main(String[] args) {
             int rows = 4; 
             
