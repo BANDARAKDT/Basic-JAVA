@@ -1,5 +1,11 @@
-package Serialiaztion with ISA relationship_inheritance;
+package Serialiaztion;
 
-public class Kid {
+public class Kid implements Serializable{
+    public String name;
+
+
+    public Kid(String name){
+        this.name=name;
+    }
     
 }
