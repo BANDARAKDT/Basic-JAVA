@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="32311247-0e26-4e2f-b850-c54f0d3a7b35" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labsheet14/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labsheet14/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labsheet14/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labsheet14/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labsheet14/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labsheet14/Labsheet14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labsheet14/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labsheet14/src/DatabaseConnector.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2eANLOHCaM0OgVHgYayvGb2IuHU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32311247-0e26-4e2f-b850-c54f0d3a7b35" name="Changes" comment="" />
+      <created>1711343368846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711343368846</updated>
+      <workItem from="1711343370059" duration="3000" />
+    </task>
+    <servers />
+  </component>
+</project>
