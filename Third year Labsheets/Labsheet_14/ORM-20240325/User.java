@@ -1,7 +1,8 @@
 import jakarta.persistence.*;
+import javax.persistence.*;
+
+
 @Entity
-
-
 @Table(name = "USERS")
 public class User {
     private Integer id;

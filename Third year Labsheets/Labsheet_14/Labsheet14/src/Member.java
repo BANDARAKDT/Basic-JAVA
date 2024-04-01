@@ -1,24 +1,14 @@
-public class Author {
-
-    private long id;
+class Member {
+    private String memberId;
     private String name;
     private String email;
 
-    public Author(){
-
+    public String getMemberId() {
+        return memberId;
     }
 
-    public Author(String name,String email){
-        this.name=name;
-        this.email=email;
-    }
-
-    public long getId() {
-        return id;
-    }
-
-    public void setId(long id) {
-        this.id = id;
+    public void setMemberId(String memberId) {
+        this.memberId = memberId;
     }
 
     public String getName() {

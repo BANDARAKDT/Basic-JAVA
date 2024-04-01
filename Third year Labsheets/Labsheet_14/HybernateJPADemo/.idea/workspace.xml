@@ -5,7 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32311247-0e26-4e2f-b850-c54f0d3a7b35" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Hybernate/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hybernate/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hybernate/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hybernate/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hybernate/Hybernate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/user.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Labsheet14/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Labsheet14/.idea/dataSources.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Labsheet14/.idea/misc.xml" afterDir="false" />
@@ -23,6 +36,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -39,8 +55,23 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/04.GITHUB/Basic-JAVA/Third year Labsheets/Labsheet_14/ORM-20240325",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "redshift",
+      "mysql"
+    ]
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -51,8 +82,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711343368846</updated>
-      <workItem from="1711343370059" duration="3000" />
+      <workItem from="1711343370059" duration="1063000" />
+      <workItem from="1711344737186" duration="2774000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
