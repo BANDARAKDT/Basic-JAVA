@@ -1,34 +1,25 @@
 import jakarta.persistence.*;
 
 import java.util.Date;
-
 @Entity
-@Table(name="book")
+@Table(name = "book")
 public class Book {
-    private long  id;
+    private Integer id;
     private String title;
     private String description;
-    @Temporal(TemporalType.DATE)
-    private Date published;
+    private Date publishedDate;
+    private Author author;
 
-
-    @OneToOne
-    @JoinColumn(name = "auther_id")
-
-    private Author author;          //aggregation relation ship
-
-    public Book(){
-
-    }
+    public Book(){}
 
     @Id
     @Column(name = "book_id")
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    public long getId() {
+    @GeneratedValue (strategy = GenerationType.IDENTITY)
+    public Integer getId() {
         return id;
     }
 
-    public void setId(long id) {
+    public void setId(Integer id) {
         this.id = id;
     }
 
@@ -48,14 +39,18 @@ public class Book {
         this.description = description;
     }
 
-    public Date getPublished() {
-        return published;
+    @Temporal(TemporalType.DATE)
+    @Column(name = "published")
+    public Date getPublishedDate() {
+        return publishedDate;
     }
 
-    public void setPublished(Date published) {
-        this.published = published;
+    public void setPublishedDate(Date publishedDate) {
+        this.publishedDate = publishedDate;
     }
 
+    @OneToOne(cascade = CascadeType.ALL)
+    @JoinColumn(name = "author_fk")
     public Author getAuthor() {
         return author;
     }
